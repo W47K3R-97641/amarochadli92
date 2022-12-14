@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 <p align="center">
-  <img src="Private GIF.gif"/>
+  <img src="Alone GIF by Alan Walker Official - Find & Share on GIPHY.gif"/>
 </p>
 
 - 👂 My Name Is Amaro Chadli
