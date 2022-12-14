@@ -4,6 +4,9 @@
 **amarochadli92/amarochadli92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<p align="center">
+  <img src="Private GIF.gif"/>
+</p>
 
 - 👂 My Name Is Amaro Chadli
 - 🌱 I’m currently learning Javascript (Apply projects)
@@ -15,6 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<p align="center">
-  <img src="Private GIF.gif"/>
-</p>
